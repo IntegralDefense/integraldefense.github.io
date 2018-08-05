@@ -1,37 +1,13 @@
-## Welcome to GitHub Pages
+#integral tools for cyber defense#
 
-You can use the [editor on GitHub](https://github.com/IntegralDefense/integraldefense.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+There are many good security tools across the computing landscape, from email, network, and endpoint, to log aggregation, machine learning, case management, vulnerability management, and many more. Connecting these systems together in an efficient and meaningful way is still a major challenge within a security ecosystem. This github site contains a variety of code, from productivity tools, integration scripts, sophisticated detection capabilities, alert management, and an analysis correlation engine (**ACE**).
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Every company is different. The combination of technology stacks, attack surfaces, and threat actors are not consistent across companies. Much of the code within this repo can be easily enhanced to accommodate specific technologies and allow you to make strides towards lean, efficient processes for your security program...not to mention the killer out of the open-box capabilities!
 
-### Markdown
+Your friends,
+__**Integral Defense**__
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/IntegralDefense/integraldefense.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+_Code long and prosper_
+_Take a penny, leave a penny_
+_"For a bunch of hairless apes, we've actually managed to invent some pretty incredible things"_
+_"I know that the future is scary at times. But there's just no escaping it"_
