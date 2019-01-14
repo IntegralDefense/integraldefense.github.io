@@ -1,5 +1,5 @@
 ### Opensource is well positioned for security automation ###
-Some interesting quotes about SOAR related to the opportunities, limitations for integrations, unrealized out-of-the-box value, and adoption predictions ![here](https://blogs.gartner.com/anton-chuvakin/2018/02/22/our-security-orchestration-and-automation-soar-paper-publishes/)
+Some interesting quotes about SOAR related to the opportunities, limitations for integrations, unrealized out-of-the-box value, and adoption predictions [here](https://blogs.gartner.com/anton-chuvakin/2018/02/22/our-security-orchestration-and-automation-soar-paper-publishes/)
 
 SOAR is all about connecting systems into a cohesive process. Who is in the position to accomplish this the best? Every company has different systems they use and rely on. Who is best positioned to create the integrations & systems necessary to connect them?
 
