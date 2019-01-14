@@ -1,3 +1,14 @@
+### Opensource is well positioned for security automation ###
+Some interesting quotes about SOAR related to the opportunities, limitations for integrations, unrealized out-of-the-box value, and adoption predictions ![here] (https://blogs.gartner.com/anton-chuvakin/2018/02/22/our-security-orchestration-and-automation-soar-paper-publishes/)
+
+SOAR is all about connecting systems into a cohesive process. Who is in the position to accomplish this the best? Every company has different systems they use and rely on. Who is best positioned to create the integrations & systems necessary to connect them?
+
+I believe the teams that rely on those technologies and use them every day to accomplish a mission are in the best position to continually improve & maintain those technologies. Unfortunately, I don't believe a commercial solution is best suited to provide this. How many integrations can a commercial solution actually support, test, and maintain as systems change? How do they prioritize the integrations? How quickly can one company do this? Does it align with your needs? In my experience, this is a bottleneck to success. Conversely, this is the value of opensource; connecting not only disparate systems, but teams, your specific priorities, and processes into a cohesive solution.
+
+We have a great foundation that supports a mature process. We've learned from and implemented systems based on both our every day experience, as well as collaboration with best in class companies. Take security collaboration to a new, meaningful level. Join us!
+
+#opensourceftw #collaboration #improvecybersecurity #forthemasses #worktogether #flexible #ownyourprocess
+
 ### The Why, and how it fits together ###
 Our goal is not the creation of code, it is the streamlining of this process. With that said, to enable the capability & effectiveness of this process we have created and integrated systems. Creating smart systems to improve this process has been our key to success. 
 
