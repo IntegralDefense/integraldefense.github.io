@@ -1,3 +1,14 @@
+#### Moving to a "Free First" approach for cybersecurity ###
+Step 1: call salesperson, Step 2: get quotes, Step 3: compare functionality.
+
+Remember the days when the strategy was to look for a commercial tool first? That strategy has led to quite a few purchases, some that we are now stuck with, some that we still get value from.
+
+But, as I look at the opensource security system landscape, I'm thinking we need to move to a "Free First" mindset. Getting involved with opensource, seeing projects grow into extremely capable systems, and seeing how quickly they are becoming mainstream…why not take a little time to research opensource before you buy? What's the downside? For good opensource projects the time investment is relatively small. Setup a proof of concept to understand the functionality and learn how it fits into your security program (without the marketing FUD). Worst case, you become more educated and better prepared for determining the value of the commerical tools.
+
+Maybe you are looking to buy automation tools. Maybe you are thinking about a SIEM.  
+
+Maybe you should go "Free First".
+
 ### Opensource is well positioned for security automation ###
 Some interesting quotes about SOAR related to the opportunities, limitations for integrations, unrealized out-of-the-box value, and adoption predictions [here](https://blogs.gartner.com/anton-chuvakin/2018/02/22/our-security-orchestration-and-automation-soar-paper-publishes/)
 
