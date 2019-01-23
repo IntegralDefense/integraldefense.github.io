@@ -1,4 +1,4 @@
-#### Moving to a "Free First" approach for cybersecurity ###
+### Moving to a "Free First" approach for cybersecurity ###
 Step 1: call salesperson, Step 2: get quotes, Step 3: compare functionality.
 
 Remember the days when the strategy was to look for a commercial tool first? That strategy has led to quite a few purchases, some that we are now stuck with, some that we still get value from.
