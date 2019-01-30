@@ -1,3 +1,35 @@
+### Catch phish, clean'em, and use'em as bait ###
+
+Ok, so phishing is not new, but waves of relentless phishing continue and bypass email prevention systems daily. It is odd that year over year the number of phishing attacks getting past prevention systems continues to increase.
+
+From Business Email Compromise, to credential harvesters, to malicious attachments, and links to all sorts of malicious files; phishing is still the easiest, lowest cost delivery vector for attackers. Good thing for us it is also the easiest to detect (__believe it!__). 
+
+In my experience if you have a good phishing prevention system and a good phishing awareness program, you are still missing attacks…a lot of attacks. While prevention is the ultimate goal, there is so much additional value gained by detecting and learning from the phish that bypass your preventions! 
+
+   - **The best Intel source.** Those indicator feeds are nice, but way less valuable than the intel you gain when analyzing the phishing attacks that get past your preventions. This is the source of the most relevant, high quality, kill chain diverse intel you can find. Instead of investing in intel feeds, maybe you should invest in detection. 
+   - **Practice.** Learning is all about iteration. Being able to iterate the detect, respond, intel cycle often and quickly will train your team intrinsically. They will better understand their data, visibility, and how it all fits together. They will then be prepared to work more stressful incidents, understand what is high priority vs what can wait, and more quickly focus on the right items. 
+   - **Credibility.** When you get to the point of calling an employee minutes after they click a link to provide real-time training, the word gets around, and the company knows your team can be trusted. This drives the ability to influence and increases your chance of budget to improve on gaps.
+   - **Winning.** Stop the attack early in the attack cycle instead of the resource intensive work of cleaning things up when the attacks reach further into the attack cycle. Know about the attack early in the cycle and feed that information into your detection systems quickly, so you are warned if later stages of the attack cycle are reached.
+   - **Metrics & Risk identification.** Having data to show how far attacks are getting before they are prevented, the cycle times involved with alert triage, and the data to show what types of attacks you are facing all lead to an understanding of risk. Having this data builds credibility and trust, which helps when you need money to fill gaps and grow your program.
+   - **Ease of disposition.** Alerts for email, if done correctly, have the most context of any type of alert and are amongst the easiest to triage. Very quick to disposition and respond to. 
+   - **Combat Alert Fatigue.** When you are detecting attacks, learning from them, tuning detection, and remediating them quickly, alert fatigue issues are dramatically reduced. Alert fatigue is more of an issue when only false positives are witnessed, or the same non-value, long cycle-time, zero context alert comes in. Not the case with email alerts done correctly.
+	
+**"Give a Man a Phish, and You Feed Him for a Day. Teach a Man To Phish, and You Feed Him for a Lifetime."**
+
+The barrier to entry is low. This is what you get for free. We hope you join us to build on the existing capabilities.
+
+   - **Out of band and extremely easy to implement.** This means you can be bleeding edge with your detection, no worries of causing email disruption, the business continues as usual. Let your prevention systems do the preventions.
+   - **Log rich email metadata.** JSON log format includes all aspects of the email, including attachment details, links found within the email, and all header metadata. Easily ingest into your log aggregation system.
+   - **Recursive file analysis.** Supports common delivery vector file types (like doc, pdf, archive formats), easily exteded.
+   - **Metrics.** Track cycle-time, events, and incidents out of the box. By dispositioning alerts based on attack phase you automatically have data on the stage of the attack reached.
+   - **Custom yara rules for detection!**
+   - **Alert management.** The alert, with all the analysis completed, presented to an analyst for easy disposition.
+   - **Email Remediation Integration.** Integrate click button remediation of emails with O365 (PhishRemediation project).
+   - **Dynamic file analysis integration.** Integrates with Cuckoo, VXStream, and Wildfire sandboxes.
+   - **Link inspection integration.** Automatically analyze content of links with ACE's cloudphish (free) configuration.
+   - **Integrates** with Integral's **Event Sentry** and **CRITS** for event processing and intel collection/distribution automation.
+   - **Integrates with standard ACE** analysis/correlation modules which means you can **automate the ordinary**.
+
 ### Moving to a "Free First" approach for cybersecurity ###
 Step 1: call salesperson, Step 2: get quotes, Step 3: compare functionality.
 
