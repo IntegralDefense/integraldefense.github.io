@@ -1,10 +1,10 @@
-# Are You Winning? #
+## Are You Winning? ##
 What does winning look like in cybersecurity? 
 	
 	- No business operations disruption? 
 	- No financial loss? 
 	- No loss of important data? 
-  	- No brand negativity? 
+	- No brand negativity? 
 
 If you are winning, how well are you winning? 
 
@@ -29,7 +29,7 @@ ACE not only provides you the ability to automate the ordinary, it also collects
 <img src="Threats.png" alt="Your Threats" width="400"/>
 
 
-# Catch phish, clean'em, and use'em as bait #
+## Catch phish, clean'em, and use'em as bait ##
 
 Ok, so phishing is not new, but waves of relentless phishing continue and bypass email prevention systems daily. It is odd that year over year the number of phishing attacks getting past prevention systems continues to increase.
 
@@ -61,7 +61,7 @@ The barrier to entry is low. This is what you get for free. We hope you join us 
    - **Integrates** with Integral's **Event Sentry** and **CRITS** for event processing and intel collection/distribution automation.
    - **Integrates with standard ACE** analysis/correlation modules which means you can **automate the ordinary**.
 
-# Moving to a "Free First" approach for cybersecurity #
+## Moving to a "Free First" approach for cybersecurity ##
 Step 1: call salesperson, Step 2: get quotes, Step 3: compare functionality.
 
 Remember the days when the strategy was to look for a commercial tool first? That strategy has led to quite a few purchases, some that we are now stuck with, some that we still get value from.
@@ -72,7 +72,7 @@ Maybe you are looking to buy automation tools. Maybe you are thinking about a SI
 
 Maybe you should go "Free First".
 
-# Opensource is well positioned for security automation #
+## Opensource is well positioned for security automation ##
 Some interesting quotes about SOAR related to the opportunities, limitations for integrations, unrealized out-of-the-box value, and adoption predictions [here](https://blogs.gartner.com/anton-chuvakin/2018/02/22/our-security-orchestration-and-automation-soar-paper-publishes/)
 
 SOAR is all about connecting systems into a cohesive process. Who is in the position to accomplish this the best? Every company has different systems they use and rely on. Who is best positioned to create the integrations & systems necessary to connect them?
@@ -83,7 +83,7 @@ We have a great foundation that supports a mature process. We've learned from an
 
 #opensourceftw #collaboration #improvecybersecurity #forthemasses #worktogether #flexible #ownyourprocess
 
-# The Why, and how it fits together #
+## The Why, and how it fits together ##
 Our goal is not the creation of code, it is the streamlining of this process. With that said, to enable the capability & effectiveness of this process we have created and integrated systems. Creating smart systems to improve this process has been our key to success. 
 
 All of the tools required to accomplish this process are now available from Integral Defense for free. Join us!
@@ -100,7 +100,7 @@ Where the tools fit into the process...
 ![Free systems and tools to accomplish the process](current_state.png)
 
 
-# integral systems for cyber defense #
+## integral systems for cyber defense ##
 
 There are many good security tools across the computing landscape, from email, network, and endpoint, to log aggregation, machine learning, case management, vulnerability management, and many more. Connecting these systems together in an efficient and meaningful way is still a major challenge within a security ecosystem. This github site contains a variety of code, including productivity tools, integration scripts, sophisticated detection capabilities, alert management, and an analysis correlation engine (**ACE**).
 
