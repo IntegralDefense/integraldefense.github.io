@@ -1,3 +1,34 @@
+### Are You Winning? ###
+What does winning look like in cybersecurity? 
+	
+	- No business operations disruption? 
+	- No financial loss? 
+	- No loss of important data? 
+  	- No brand negativity? 
+
+If you are winning, how well are you winning? 
+
+What if you measured every attack that gets around at least one of your preventions? What if, for every one of these attacks you measured how far the attack made it in the attack cycle?
+ 
+By dispositioning your security alerts by attack cycle, you get this insight.
+
+ACE not only provides you the ability to automate the ordinary, it also collects the data you need to understand your threats and risk, as part of the normal security operations process. 
+
+#### Do you understand your security operations? ####
+
+<img src="SecurityOperationsMetrics.png" alt="Security Operations Metrics" width="600"/>
+
+
+#### Can you show you are winning? ####
+
+<img src="Attack_Penetration.png" alt="Attack Penetration" width="600"/>
+
+
+#### Do you know what threats are getting past your defenses? How well do you detect and prevent these threats? ####
+
+<img src="Threats.png" alt="Your Threats" width="400"/>
+
+
 ### Catch phish, clean'em, and use'em as bait ###
 
 Ok, so phishing is not new, but waves of relentless phishing continue and bypass email prevention systems daily. It is odd that year over year the number of phishing attacks getting past prevention systems continues to increase.
