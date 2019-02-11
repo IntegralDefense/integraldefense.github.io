@@ -1,4 +1,4 @@
-### I love not doing things, and I love that by not doing things I can do more things ###
+### I love not doing things, and I love that by not doing things we can do more things ###
  
 - I love that we no longer need to manually pull pcaps for an IDS alert, it's just part of the alert in ACE. No more worries about pcaps rolling off before manually grabbing them. No more command line craziness to find and extract the pcaps related to the alert. No more scp'ing pcaps all over the place before we can analyze them.
 - I love not having to manually lookup who a user is, where they are located, or what employee a computer belongs to, it's just part of the alert.
