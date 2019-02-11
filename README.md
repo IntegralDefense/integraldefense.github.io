@@ -17,6 +17,7 @@ Let's join forces and ***automate the ordinary!***
  
 ***(Ok and maybe the extraordinary too)***
 
+_________________________________________________________________________________________________
 
 
 ### Are You Winning? ###
@@ -36,6 +37,7 @@ Dispositioning your security alerts by attack cycle provides this insight.
 
 ACE not only provides you the ability to automate the ordinary, it also collects the data you need to understand your threats and risk, as part of the normal security operations process. 
 
+
 ##### Do you understand your security operations? #####
 
 <img src="SecurityOperationsMetrics.png" alt="Security Operations Metrics" width="600"/>
@@ -49,6 +51,8 @@ ACE not only provides you the ability to automate the ordinary, it also collects
 ##### Do you know what threats are getting past your defenses? How well do you detect and prevent these threats? #####
 
 <img src="Threats.png" alt="Your Threats" width="400"/>
+
+________________________________________________________________________________________________
 
 
 ### Catch phish, clean'em, and use'em as bait ###
@@ -83,6 +87,8 @@ The barrier to entry is low. This is what you get for free. We hope you join us 
    - **Integrates** with Integral's **Event Sentry** and **CRITS** for event processing and intel collection/distribution automation.
    - **Integrates with standard ACE** analysis/correlation modules which means you can **automate the ordinary**.
 
+________________________________________________________________________________________________
+
 
 ### Moving to a "Free First" approach for cybersecurity ###
 Step 1: call salesperson, Step 2: get quotes, Step 3: compare functionality.
@@ -95,6 +101,8 @@ Maybe you are looking to buy automation tools. Maybe you are thinking about a SI
 
 Maybe you should go "Free First".
 
+________________________________________________________________________________________________
+
 
 ### Opensource is well positioned for security automation ###
 Some interesting quotes about SOAR related to the opportunities, limitations for integrations, unrealized out-of-the-box value, and adoption predictions [here](https://blogs.gartner.com/anton-chuvakin/2018/02/22/our-security-orchestration-and-automation-soar-paper-publishes/)
@@ -106,6 +114,8 @@ I believe the teams that rely on those technologies and use them every day to ac
 We have a great foundation that supports a mature process. We've learned from and implemented systems based on both our every day experience, as well as collaboration with best in class companies. Take security collaboration to a new, meaningful level. Join us!
 
 #opensourceftw #collaboration #improvecybersecurity #forthemasses #worktogether #flexible #ownyourprocess
+
+________________________________________________________________________________________________
 
 
 ### The Why, and how it fits together ###
@@ -123,6 +133,8 @@ Additional details...
 
 Where the tools fit into the process...
 ![Free systems and tools to accomplish the process](current_state.png)
+
+________________________________________________________________________________________________
 
 
 ### integral systems for cyber defense ###
