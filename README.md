@@ -1,3 +1,24 @@
+### I love not doing things, and I love that by not doing things I can do more things ###
+ 
+- I love that we no longer need to manually pull pcaps for an IDS alert, it's just part of the alert in ACE. No more worries about pcaps rolling off before manually grabbing them. No more command line craziness to find and extract the pcaps related to the alert. No more scp'ing pcaps all over the place before we can analyze them.
+- I love not having to manually lookup who a user is, where they are located, or what employee a computer belongs to, it's just part of the alert.
+- I love that we no longer need to manually submit files to our sandboxes or manually lookup results on VT, it's just part of the alert.
+- I love, upon a customized phish detection that bypasses our email preventions, we don't have to login to exchange, find the email and remove it. I love that we don't have to put in a ticket for removal. I love that ACE has a button to remediate it.
+- I love how easily & quickly we detect credential harvester phish, remediate them, and know if any of our employees visited or supplied credentials.
+- I love that we no longer need to manually combine and keep track of important alerts that relate to an attack, I can just combine them into ACE events.
+- I love that as we have gotten better at detecting and remediating phish, the number of attacks that reach installation has almost vanished. (Actually, if I'm honest, I wish we had installation events more often to maintain our response skills.)
+- I love, appreciate, and take for granted so many of the things we have created to improve our program.
+ 
+Things that use to be hard, or tedious, no longer are. This provides us the opportunity to work on the next hard thing.
+ 
+Why not have ACE do things, so your team can do more things?
+ 
+Let's join forces and ***automate the ordinary!***
+ 
+***(Ok and maybe the extraordinary too)***
+
+
+
 ### Are You Winning? ###
 
 What does winning look like in cybersecurity? 
@@ -62,6 +83,7 @@ The barrier to entry is low. This is what you get for free. We hope you join us 
    - **Integrates** with Integral's **Event Sentry** and **CRITS** for event processing and intel collection/distribution automation.
    - **Integrates with standard ACE** analysis/correlation modules which means you can **automate the ordinary**.
 
+
 ### Moving to a "Free First" approach for cybersecurity ###
 Step 1: call salesperson, Step 2: get quotes, Step 3: compare functionality.
 
@@ -73,6 +95,7 @@ Maybe you are looking to buy automation tools. Maybe you are thinking about a SI
 
 Maybe you should go "Free First".
 
+
 ### Opensource is well positioned for security automation ###
 Some interesting quotes about SOAR related to the opportunities, limitations for integrations, unrealized out-of-the-box value, and adoption predictions [here](https://blogs.gartner.com/anton-chuvakin/2018/02/22/our-security-orchestration-and-automation-soar-paper-publishes/)
 
@@ -83,6 +106,7 @@ I believe the teams that rely on those technologies and use them every day to ac
 We have a great foundation that supports a mature process. We've learned from and implemented systems based on both our every day experience, as well as collaboration with best in class companies. Take security collaboration to a new, meaningful level. Join us!
 
 #opensourceftw #collaboration #improvecybersecurity #forthemasses #worktogether #flexible #ownyourprocess
+
 
 ### The Why, and how it fits together ###
 Our goal is not the creation of code, it is the streamlining of this process. With that said, to enable the capability & effectiveness of this process we have created and integrated systems. Creating smart systems to improve this process has been our key to success. 
