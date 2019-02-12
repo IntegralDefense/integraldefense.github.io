@@ -1,12 +1,3 @@
-**[I love not doing things](#i-love-not-doing-things)**<br>
-**[Are You Winning?](#are-you-winning)**<br>
-**[Custom Phish Detection For The Win](#custom-phish-detection-for-the-win)**<br>
-**[Move to a Free First strategy](#move-to-free-first)**<br>
-**[Opensource is well positioned for security automation](#opensource-is-well-positioned-for-security-automation)**<br>
-**[The Process](#the-process)**<br>
-**[Hello](#hello)**<br>
-
-_________________________________________________________________________________________________
 ### I love not doing things
 
 ### and I love that by not doing things we can do more things ###
@@ -27,6 +18,16 @@ Why not have ACE do things, so your team can do more things?
 Let's join forces and ***automate the ordinary!***
  
 ***(Ok and maybe the extraordinary too)***
+
+_________________________________________________________________________________________________
+
+**[I love not doing things](#i-love-not-doing-things)**<br>
+**[Are You Winning?](#are-you-winning)**<br>
+**[Custom Phish Detection For The Win](#custom-phish-detection-for-the-win)**<br>
+**[Move to a Free First strategy](#move-to-free-first)**<br>
+**[Opensource is well positioned for security automation](#opensource-is-well-positioned-for-security-automation)**<br>
+**[The Process](#the-process)**<br>
+**[Hello](#hello)**<br>
 
 _________________________________________________________________________________________________
 
