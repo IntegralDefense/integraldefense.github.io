@@ -19,8 +19,15 @@ Let's join forces and ***automate the ordinary!***
 
 _________________________________________________________________________________________________
 
+### Table of Contents
+**[Are You Winning?](#are-you-winning)**<br>
+**[Custom Phish Detection For The Win](#custom-phish-detection-for-the-win)**<br>
+**[Move to a Free First strategy](#move-to-free-first)**<br>
+**[Opensource is well positioned for security automation](#opensource-is-well-positioned-for-security-automation)**</br>
+**[The Process](#the-process)**</br>
+**[Hello](#hello)**</br>
 
-### Are You Winning? ###
+### Are You Winning?
 
 What does winning look like in cybersecurity? 
 	
@@ -54,8 +61,8 @@ ACE not only provides you the ability to automate the ordinary, it also collects
 
 ________________________________________________________________________________________________
 
-
-### Catch phish, clean'em, and use'em as bait ###
+### Custom Phish Detection For The Win
+#### Catch phish, clean'em, and use'em as bait ####
 
 Ok, so phishing is not new, but waves of relentless phishing continue and bypass email prevention systems daily. It is odd that year over year the number of phishing attacks getting past prevention systems continues to increase.
 
@@ -71,7 +78,7 @@ In my experience if you have a good phishing prevention system and a good phishi
    - **Ease of disposition.** Alerts for email, if done correctly, have the most context of any type of alert and are amongst the easiest to triage. Very quick to disposition and respond to. 
    - **Combat Alert Fatigue.** When you are detecting attacks, learning from them, tuning detection, and remediating them quickly, alert fatigue issues are dramatically reduced. Alert fatigue is more of an issue when only false positives are witnessed, or the same non-value, long cycle-time, zero context alert comes in. Not the case with email alerts done correctly.
 	
-**"Give a Man a Phish, and You Feed Him for a Day. Teach a Man To Phish, and You Feed Him for a Lifetime."**
+**"Give a Man a Phish, and You Feed Him for a Day. Teach a Man To Phish, and You Feed Him for a Lifetime."**
 
 The barrier to entry is low. This is what you get for free. We hope you join us to build on the existing capabilities.
 
@@ -89,8 +96,8 @@ The barrier to entry is low. This is what you get for free. We hope you join us 
 
 ________________________________________________________________________________________________
 
-
-### Moving to a "Free First" approach for cybersecurity ###
+### Move to Free First
+#### Moving to a "Free First" approach for cybersecurity ####
 Step 1: call salesperson, Step 2: get quotes, Step 3: compare functionality.
 
 Remember the days when the strategy was to look for a commercial tool first? That strategy has led to quite a few purchases, some that we are now stuck with, some that we still get value from.
@@ -117,8 +124,8 @@ We have a great foundation that supports a mature process. We've learned from an
 
 ________________________________________________________________________________________________
 
-
-### The Why, and how it fits together ###
+### The Process
+#### The Why, and how it fits together ####
 Our goal is not the creation of code, it is the streamlining of this process. With that said, to enable the capability & effectiveness of this process we have created and integrated systems. Creating smart systems to improve this process has been our key to success. 
 
 All of the tools required to accomplish this process are now available from Integral Defense for free. Join us!
@@ -136,8 +143,8 @@ Where the tools fit into the process...
 
 ________________________________________________________________________________________________
 
-
-### integral systems for cyber defense ###
+## Hello
+#### integral systems for cyber defense ####
 
 There are many good security tools across the computing landscape, from email, network, and endpoint, to log aggregation, machine learning, case management, vulnerability management, and many more. Connecting these systems together in an efficient and meaningful way is still a major challenge within a security ecosystem. This github site contains a variety of code, including productivity tools, integration scripts, sophisticated detection capabilities, alert management, and an analysis correlation engine (**ACE**).
 
