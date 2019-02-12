@@ -23,9 +23,9 @@ ________________________________________________________________________________
 **[Are You Winning?](#are-you-winning)**<br>
 **[Custom Phish Detection For The Win](#custom-phish-detection-for-the-win)**<br>
 **[Move to a Free First strategy](#move-to-free-first)**<br>
-**[Opensource is well positioned for security automation](#opensource-is-well-positioned-for-security-automation)**</br>
-**[The Process](#the-process)**</br>
-**[Hello](#hello)**</br>
+**[Opensource is well positioned for security automation](#opensource-is-well-positioned-for-security-automation)**<br>
+**[The Process](#the-process)**<br>
+**[Hello](#hello)**<br>
 
 ### Are You Winning?
 
