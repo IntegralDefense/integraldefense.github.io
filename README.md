@@ -21,6 +21,7 @@ Let's join forces and ***automate the ordinary!***
 
 _________________________________________________________________________________________________
 
+### Previous Posts
 **[I love not doing things](#i-love-not-doing-things)**<br>
 **[Are You Winning?](#are-you-winning)**<br>
 **[Custom Phish Detection For The Win](#custom-phish-detection-for-the-win)**<br>
