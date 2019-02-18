@@ -41,6 +41,7 @@ If you can answer these questions, your alerts, and SOC, are working for you.
   - What data is needed to accomplish a high confidence disposition?
   - With the data required to make a high confidence disposition, does the analyst make the right decision? 
   - How long does it take the analyst to make the right decision?
+  
 _________________________________________________________________________________________________
 
 
