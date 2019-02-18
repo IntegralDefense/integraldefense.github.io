@@ -1,3 +1,62 @@
+### Treat every alert like a dollar in your budget ###
+
+Security 101:
+ 
+	1) Buy a security platform (SIEM or similar)
+	2) Pump data into the system
+	3) Create a SOC (make sure to have many large screens, 24x7, follow-the-sun setup)
+	4) Thousands of alerts daily, with no context.
+	5) SOC submits ticket to IT team
+	6) IT team closes ticket
+	7) Go to step 4, repeat until breach.
+	8) Buy new wizbang security technology
+	9) Go to step 4. repeat until breach.
+	10) Fire CISO
+	11) Hire a service which does 1-9
+
+Dave Ramsey says that when budgeting, every dollar should have a job and a purpose. This means that each dollar has an understood opportunity cost. 
+
+Alerts have an opportunity cost too. If it isn't valuable, tune it or get rid of it. If it is valuable, it should be highlighted. Alerts should be easy to tune and even easier to turn off (if bad).
+
+False positives are a way of life. False positives that add no value or take too long to analyze are like incurring high interest debt. 
+
+> "You must gain control over your money (alerts) or the lack of it will forever control you.”
+
+**Find Alert Peace.**
+
+**_tldr:_**
+
+Alert triage is similar to troubleshooting an IT problem. The more information collected up-front, the easier it is to find answers, the quicker the problem gets resolved. Security alerts are similar, the more understanding of why the alert fired, what it might represent, and the ability to find additional information drive quicker analysis. 
+
+The goal is for every alert to have all the information required by a human to disposition the alert with confidence quickly, thereby reducing manual effort and time. Additionally, a tuning sub-process should be implemented within the normal flow of alert triage. This will not only help with alert fatigue, but improve coverage, and get your team thinking the right way.
+
+If you can answer these questions, your alerts, and SOC, are working for you.
+  - Why did this alert fire? 
+  - What was the system looking for that created this alert? 
+  - How often does this alert fire? 
+  - How often is it a false positive vs malicious? Is this a new alert?
+  - What is the impact if this alert is associated with evil?
+  - How far in the attack cycle did the threat get?
+  - Does the alert contain the information needed for an analyst to make a high confidence disposition? 
+  - What data is needed to accomplish a high confidence disposition?
+  - With the data required to make a high confidence disposition, does the analyst make the right decision? 
+  - How long does it take the analyst to make the right decision?
+_________________________________________________________________________________________________
+
+
+### Previous Posts
+**[Treat every alert like a dollar in your budget](#treat-every-alert-like-a-dollar-in-your-budget)**<br>
+**[I love not doing things](#i-love-not-doing-things)**<br>
+**[Are You Winning?](#are-you-winning)**<br>
+**[Custom Phish Detection For The Win](#custom-phish-detection-for-the-win)**<br>
+**[Move to a Free First strategy](#move-to-free-first)**<br>
+**[Opensource is well positioned for security automation](#opensource-is-well-positioned-for-security-automation)**<br>
+**[The Process](#the-process)**<br>
+**[Hello](#hello)**<br>
+
+_________________________________________________________________________________________________
+
+
 ### I love not doing things
 
 ### and I love that by not doing things we can do more things ###
@@ -19,16 +78,6 @@ Let's join forces and ***automate the ordinary!***
  
 ***(Ok and maybe the extraordinary too)***
 
-_________________________________________________________________________________________________
-
-### Previous Posts
-**[I love not doing things](#i-love-not-doing-things)**<br>
-**[Are You Winning?](#are-you-winning)**<br>
-**[Custom Phish Detection For The Win](#custom-phish-detection-for-the-win)**<br>
-**[Move to a Free First strategy](#move-to-free-first)**<br>
-**[Opensource is well positioned for security automation](#opensource-is-well-positioned-for-security-automation)**<br>
-**[The Process](#the-process)**<br>
-**[Hello](#hello)**<br>
 
 _________________________________________________________________________________________________
 
