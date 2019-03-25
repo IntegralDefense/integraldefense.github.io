@@ -1,3 +1,41 @@
+### Learn from attacks that bypass your preventions ###
+
+I know, no kidding, right? Thanks, Captain Obvious! 
+
+I find that we are trusting our commercial tools too much. If you take the "trust but verify" approach to attack detection, you will learn so much. If you apply what you learn, you will detect future attacks that bypass your preventions. 
+
+There are several ways to get started. Starting with antivirus alerts is one simple way, since the attack made it to the endpoint. Regardless of how you start, the important aspect is being able to answer the question, "how was it delivered?" By attempting to answer that question, you will learn where you have visibility gaps and where your attacks are originating from. In addition to understanding the delivery vector of an attack, it is also important to classify the threat by risk level for your business. This information will allow you to make a data driven decision on where to focus your efforts. 
+
+For us, email was the highest volume and highest risk delivery vector. While we had IDS in addition to IPS, as well as EDR along with antivirus, we only had an email prevention system, without a detection system. We decided to build our own. 
+
+By implementing, and continually improving the Intel, Detect, Response process, we have not only become knowledgeable, but we now detect over 480 email attacks that bypass our email filter monthly. This represents a total population of 12,000 employees. Additionally, we are alerted when an employee clicks a link or opens an attachment related to the phish. This data provides us actual click rates, not just data from a phishing simulation. 
+
+We continued to automate our manual processes, improving our ability to work more alerts with the same number of employees. We created detection systems and managed attack related data which fed our detection. 
+
+ <img src="AlertIntelSources.png" alt="Alerts and Intelligence over time" width="600"/>
+
+To kick-start our program, we initially focused on externally sourced intelligence in addition to answering the delivery vector question. While we continue to collect external intelligence, we prioritize those sources by focusing on high risk threats. As we have matured, we focus most of our efforts on internally sourced intelligence. It is the most relevant, contextual, reliable, and credible source of intelligence available. Managing and applying that data is the key to a highly capable program. 
+
+As we streamlined the process of detection -> response -> intelligence -> detection for attacks bypassing our preventions, we started to detect more threats quarter over quarter. The system began feeding itself. 
+
+There is no silver bullet and taking the time to learn all of the systems, data, and priorities was a journey, but it has been a journey that has made us very knowledgeable and improved our capability.  
+
+The great news is that this approach is reproducible. 
+_________________________________________________________________________________________________
+
+### Previous Posts
+**[Learn from attacks that bypass your preventions](#learn-from-attacks-that-bypass-your-preventions)**<br>
+**[Treat every alert like a dollar in your budget](#treat-every-alert-like-a-dollar-in-your-budget)**<br>
+**[I love not doing things](#i-love-not-doing-things)**<br>
+**[Are You Winning?](#are-you-winning)**<br>
+**[Custom Phish Detection For The Win](#custom-phish-detection-for-the-win)**<br>
+**[Move to a Free First strategy](#move-to-free-first)**<br>
+**[Opensource is well positioned for security automation](#opensource-is-well-positioned-for-security-automation)**<br>
+**[The Process](#the-process)**<br>
+**[Hello](#hello)**<br>
+
+_________________________________________________________________________________________________
+
 ### Treat every alert like a dollar in your budget ###
 
 Security 101:
@@ -43,20 +81,6 @@ If you can answer these questions, your alerts, and SOC, are working for you.
   - How long does it take the analyst to make the right decision?
   
 _________________________________________________________________________________________________
-
-
-### Previous Posts
-**[Treat every alert like a dollar in your budget](#treat-every-alert-like-a-dollar-in-your-budget)**<br>
-**[I love not doing things](#i-love-not-doing-things)**<br>
-**[Are You Winning?](#are-you-winning)**<br>
-**[Custom Phish Detection For The Win](#custom-phish-detection-for-the-win)**<br>
-**[Move to a Free First strategy](#move-to-free-first)**<br>
-**[Opensource is well positioned for security automation](#opensource-is-well-positioned-for-security-automation)**<br>
-**[The Process](#the-process)**<br>
-**[Hello](#hello)**<br>
-
-_________________________________________________________________________________________________
-
 
 ### I love not doing things
 
